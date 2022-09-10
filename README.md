@@ -28,5 +28,7 @@ Created House Price Prediction Model to find the value of upcoming house price.
 * The columns have Three types of datatypes: float64(11), int64(26), object(43).
 
 Top Correlation:
+
 ![image](https://user-images.githubusercontent.com/85886921/189496136-4212405a-cf38-4638-82ff-61257c09ecec.png)
+
 OverallQual and GrLivArea seem to be the most correlated to SalePrice
